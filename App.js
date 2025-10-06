@@ -36,7 +36,7 @@ return (
       </View>
       <View >
         <Text>Organisational Behaviour</Text>
-        <TextInput placeholder="Grade" onChangeText={setOb)}/>
+        <TextInput placeholder="Grade" onChangeText={setOb}/>
       </View>
       <View >
         <Button title="submit" onPress={clickMe}/>
